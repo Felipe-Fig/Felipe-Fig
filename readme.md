@@ -1,5 +1,7 @@
 # Readme Test for explanation
 
-## personal info
+## About me:
 
-### e-mail.
+### Contact:
+[Linkedin](https://www.linkedin.com/in/felipe-f-9334b4248)
+E-mail: sd_ff@hotmail.com 
