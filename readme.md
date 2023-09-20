@@ -1,7 +1,7 @@
 ## About me:
 Software Engineering student at Unopar-Anhanguera.
 
-![cb](https://github.com/Felipe-Fig/Felipe-Fig/blob/main/acclaim.svg) Working at the Brazilian Military Police.
+Working at the Brazilian Military Police.
 
 ## Stats
 
