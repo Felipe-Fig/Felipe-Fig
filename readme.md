@@ -3,6 +3,8 @@ Software Engineering student at Unopar-Anhanguera.
 
 Working at the Brazilian Military Police.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Fig)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Projects
 Fousing on creating easy-to-understand coding solutions for famous projects on the internet.
 
